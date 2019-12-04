@@ -22,7 +22,7 @@ from utils import TwitterStreamer
 
 if __name__ == '__main__':
     # try changing the keyword
-    keyword = ['trump']
+    keyword = ['clinton']
     fetched_tweets_filename = "step_2.json"
     twitter_streamer = TwitterStreamer()
     twitter_streamer.stream_tweets(fetched_tweets_filename, keyword)
