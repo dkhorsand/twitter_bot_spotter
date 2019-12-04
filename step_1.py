@@ -9,7 +9,7 @@ from utils import TwitterStreamer
 #       Run "step_1.py" and stop it after 1 minute
 
 #       STEP 2
-#       In "step_2.json" replace the ',' at the beginning with '[' , then add ']' at the very end to make it a list
+#       In "step_2.json" replace the ',' at the beginning with '[' , then add ']' at the very end
 
 #       STEP 3
 #       Run "step_3.py"
